@@ -10,4 +10,4 @@ This is home page of the app
 
 And, this is the result page
 
-![result](C:\Hemanth\Projects%20to%20upload%20at%20Github\Flutter\bmi_calculator_flutter\images\result.png)
+![result](images/result.png)
