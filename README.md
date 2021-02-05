@@ -6,8 +6,8 @@ This app calculates your BMI.
 
 This is home page of the app
 
-![home](C:\Hemanth\Projects%20to%20upload%20at%20Github\Flutter\bmi_calculator_flutter\images\home.png)
+<img src="./images/home.png" title="" alt="home" width="230">
 
 And, this is the result page
 
-![result](./images/result.png)
+<img src="./images/result.png" title="" alt="result" width="230">
