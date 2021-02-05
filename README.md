@@ -10,4 +10,4 @@ This is home page of the app
 
 And, this is the result page
 
-![result](images/result.png)
+![result](./images/result.png)
